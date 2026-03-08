@@ -1,0 +1,24 @@
+GIT STATUS:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   push.sh
+	modified:   push_git.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	run_push.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+GIT PUSH:
+STDOUT: branch 'main' set up to track 'origin/main'.
+STDERR: Everything up-to-date
+Return code: 0
+
+REMOTE URL:
+origin	https://github.com/AP24110010511/Echo-bridge.git (fetch)
+origin	https://github.com/AP24110010511/Echo-bridge.git (push)
